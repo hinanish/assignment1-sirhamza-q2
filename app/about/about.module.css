@@ -1,0 +1,25 @@
+.aboutcss{
+    color :rgb(134, 230, 134);
+    background-color: darkgreen;
+    font-size  :20px;
+    margin: 100px 0px  0px 350px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+.h1css{
+    color :rgb(134, 230, 134);
+    background-color:darkgreen;
+    font-size  :100px;
+    border-radius: 50px;
+    border: solid 5px lightgreen;
+    font-weight: bolder;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 100px;
+    
+}
+.footer{
+    margin-top: 300px;
+    border: solid 4px darkgreen;
+}

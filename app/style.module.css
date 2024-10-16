@@ -1,0 +1,34 @@
+.navbar {
+  padding: 0;
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.ul { 
+  padding: 10px;
+  margin: 10px;
+  display: flex;   
+  list-style: none;
+  justify-content: space-between; /* Optional: Distributes items evenly */
+  align-items: center;
+}
+
+.li {
+  margin-right: 20px;  /* Spacing between each li */
+  color: #fff;
+  align-items: center;
+}
+
+.rollnumber{
+font-size: 60px;
+color :lightgreen;
+background-color: darkgreen;
+font-weight: bolder;
+}
+.footer{
+  margin-top: 350px;
+  border: solid 4px darkgreen;
+}
